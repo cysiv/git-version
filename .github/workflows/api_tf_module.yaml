@@ -1,5 +1,5 @@
 # .github/workflows/api_tf_module.yml
-name: api tf module
+name: api_tf_module
 
 on:
   pull_request:
